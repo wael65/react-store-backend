@@ -1,2 +1,2 @@
-# react-store-backend
-server side of react ecommerce using strapi
+# react-strapi-store
+react e-commerce App using react and strapi 
