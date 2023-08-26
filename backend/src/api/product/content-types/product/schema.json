@@ -20,6 +20,11 @@
       "type": "text",
       "required": true
     },
+"shortdiscription": {
+      "type": "text",
+      "required": true
+    },
+    
     "image": {
       "type": "media",
       "multiple": true,
